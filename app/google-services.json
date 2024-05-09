@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "280467880474",
+    "project_id": "flavorfiesta-7ac17",
+    "storage_bucket": "flavorfiesta-7ac17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280467880474:android:cef0cbefd8921720f86fa3",
+        "android_client_info": {
+          "package_name": "com.example.adminflavorfiesta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjhPIqYygvRAib3jZDk0qfsty61PGLvEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
